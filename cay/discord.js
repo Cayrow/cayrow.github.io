@@ -3,5 +3,5 @@ function test() {
     document.getElementById('rcorners2').innerHTML = 'Coppied tag to clipboard';
     document.getElementById('rcorners2').style.color = "White";
     document.getElementById('rcorners2').style.fontSize ='3em'
-    setTimeout(perv,500);
+    setTimeout(test,5000);
     }
