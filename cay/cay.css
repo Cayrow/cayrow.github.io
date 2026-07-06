@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    background-image: url("assets/Astolfo_i.png");
+    font-family: monospace;
+}
+
+h1{
+    text-align: center;
+    color: #db8aeb;
+}
+
+hr{
+    background-color: #db8aeb;
+    text-decoration: none;
+}
+
+#rcorners2{
+    border-radius: 25px;
+    border: 2px solid #db8aeb;
+    padding: 20px; 
+    width: 45%;
+    height: 15%;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(25, 7, 32, 0.589);
+}
+
+
+.box1{
+    font-size: 1rem;
+    color: #db8aeb;
+}
+
+.box2{
+    color:#db8aeb;
+    font-size: 110%;
+    text-shadow: black 3%;
+      
+}
+
+a{
+    color:unset;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.icons{
+    margin: auto;
+    text-align: center;
+}
