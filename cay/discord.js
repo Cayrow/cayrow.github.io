@@ -5,9 +5,3 @@ function test() {
     document.getElementById('rcorners2').style.fontSize ='3em'
     setTimeout(perv,500);
     }
-
-function perv(){
-  document.getElementById('rcorners2').innerHTML = 'Discord';
-  document.getElementById('rcorners2').style.color = "pink";
-  document.getElementById('rcorners2').style.fontSize ='2em'
-}
