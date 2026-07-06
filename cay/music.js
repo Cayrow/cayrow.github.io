@@ -1,3 +1,3 @@
 window.onload = function() {
-    document.getElementById("song1").play();
+    document.getElementById("song").play();
 }
