@@ -25,6 +25,28 @@ hr{
     background-color: rgba(25, 7, 32, 0.589);
 }
 
+.hBT button,
+#playButton{
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: #db8aeb;
+    border: 1px solid #db8aeb;
+    color: black;
+    padding: 10px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: inherit;
+    border-radius: 8px;
+}
+
+#volumeSlider{
+    accent-color: #db8aeb;
+}
+
 
 .box1{
     font-size: 1rem;
